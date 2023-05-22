@@ -10,6 +10,8 @@ function App() {
          Models: User,
           Pokemon,
           Pokemon_Type (joins table which has pokemon_id and element_id), Element 
+        You left off: checking to see if someone is logged in and it wasnt working /me 
+
         </p>
        
        
